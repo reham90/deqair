@@ -1495,7 +1495,7 @@ footer{
   padding-top: 10px;
 }
 .ban-block{
-  width: 105px;
+  width: 100%;
   padding: 23px 22px;
   height: 105px;
 }
@@ -1541,7 +1541,7 @@ footer{
   align-items: center;
   justify-content: center;
   transform: translateX(-50%);
-  bottom: 90px;
+  bottom: 70px;
 }
 .most-watched .owl-dots .owl-dot{
   color: #d4d6d7;
@@ -1782,7 +1782,9 @@ footer img{
   font-size: 17px;
   color: #000;
 }
-
+.part i{
+  left: 22px;
+}
 }
 
 
