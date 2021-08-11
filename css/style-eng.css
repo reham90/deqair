@@ -227,7 +227,7 @@ top:4px;
 }
 .align{
       display: flex;
-    align-items: flex-end;
+    align-items: center;
     line-height: 25px;
 }
 .align i{
