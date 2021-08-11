@@ -111,7 +111,7 @@ nav ul li a:first-child{
     z-index: 9;
     padding: 0 0 15px;
     position: fixed;
-    right: -250px;
+    left: -250px;
     height: 100%;
     transition: 0.5s;
     /* background: #262626; */
