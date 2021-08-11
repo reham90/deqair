@@ -1553,7 +1553,7 @@ footer{
   height: 160px;
 }
 .new-arr{
-  grid-template-columns: repeat(2,143px);
+  grid-template-columns: repeat(2,auto);
 
     column-gap: 15px;
     padding-top: 40px;
