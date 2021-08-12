@@ -1483,7 +1483,7 @@ footer{
 }
 .mob-grid{
   display: grid;
-  grid-template-columns: repeat(3,auto);
+  grid-template-columns: repeat(3,31.3%);
   column-gap: 8px;
   padding-top: 10px;
 }
