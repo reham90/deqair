@@ -202,6 +202,8 @@ for (i = 0; i < acc.length; i++) {
     } else {
       panel.style.display = "block";
     }
+
+ 
 });
 }
 }

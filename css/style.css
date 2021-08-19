@@ -702,7 +702,9 @@ margin-left: 36px !important;
   color: #000;
   margin: 0;
   position: relative;
-text-align: center;
+margin-left: auto;
+margin-right: auto;
+display: table;
 
  
 }
@@ -891,7 +893,9 @@ margin-left: -153px !important;
   color: #000;
   margin: 0;
   position: relative;
-text-align: center;
+margin-left: auto;
+margin-right: auto;
+display: table;
 margin-bottom: 65px;
  
 }
@@ -956,8 +960,9 @@ margin-bottom: 65px;
   color: #000;
   margin: 0;
   position: relative;
-text-align: center;
-
+margin-left: auto;
+margin-right: auto;
+display: table;
  
 }
 .testimonials h1:before{
@@ -1458,9 +1463,11 @@ footer{
 .pro-block{
   margin-left: 0;
   margin-right: 0;
+  
+}
+.new-arr .pro-block{
   margin-bottom: 0;
 }
-
 .price{
   width: auto;
   flex-wrap: wrap;
@@ -1637,6 +1644,7 @@ height: 143px;
   overflow: hidden;
   box-shadow: none;
   transition: 0.5s;
+
 }
 footer{
   flex-wrap: wrap;
